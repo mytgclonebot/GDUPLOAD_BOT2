@@ -1,12 +1,12 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1801957462:AAE4I1NS1EK7hGXrWl9ih66nuIkM2vaqc1E"
+    APP_ID = "2295505"
+    API_HASH = "d2e3a7c6e484531e1e30de97f2aca7ed"
+    DATABASE_URL = "postgres://uqstxjuststjsx:6f8ab4a72d89959970104243bd99488f035e76f86675731b91016686ddec037e@ec2-52-202-152-4.compute-1.amazonaws.com:5432/d2a1vm4rnkvbmg"
+    SUDO_USERS = "1215122799" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "33481309971-b9pv2rrm1f4kn4d606erh8f2mkfkn2fb.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "0oBxc4Xr-ObxUnUp5I4ccVMJ"
 
 
 class BotCommands:
